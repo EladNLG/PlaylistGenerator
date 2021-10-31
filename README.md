@@ -9,7 +9,7 @@ A KVFileOverrides generator for the Custom Weapon Framework 3.0, coming soon™
 
 1) Download Node.js (search it on google or smth, idk)
 2) install it lel
-3) Paste your weapon **TXTs** inside the weapons folder
+3) Paste your **custom** weapon **TXTs** inside the weapons folder (don't paste vanilla weapons - otherwise they'll be included in the result file too!)
 
 **NOTE:** Client-side vscripts are *NOT* supported, and never will be.
 You may do server-side modifications to pre-existing vscripts, in your `/platform/scripts/vscripts/weapons/` folder of R5R. 
