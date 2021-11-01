@@ -104,5 +104,6 @@ dist
 .tern-port
 
 # Custom Weapon Files
-weapons/
-custom_weapons/
+weapons/*
+custom_weapons/*
+result.txt

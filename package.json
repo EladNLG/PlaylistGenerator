@@ -1,0 +1,13 @@
+{
+  "name": "playlistgenerator",
+  "version": "1.0.0",
+  "description": "A playlist generator for the custom weapon framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js",
+    "convert": "node convertPlaylistVars.js"
+  },
+  "author": "EladNLG/JustANormalUser",
+  "license": "MIT",
+  "dependencies": {}
+}
